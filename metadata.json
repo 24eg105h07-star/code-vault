@@ -1,0 +1,6 @@
+{
+  "name": "CodeVault",
+  "description": "AI-Powered Engineering Career Launchpad & Pro Developer Workspace with multi-tier assessments, algorithmic compiler, milestone roadmaps, and competency auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
